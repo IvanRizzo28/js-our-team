@@ -1,0 +1,3 @@
+- Creo l'oggetto persona con tutte le sue proprietà
+- Inserisco nell'array Team degli oggetti persona
+- Infine stampo tutte le proprietà delle persone all'interno del team
